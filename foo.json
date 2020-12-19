@@ -1,0 +1,6 @@
+{
+   "foo":"Foo Text",
+   "democonfigclient":{
+      "message":"hello config server"
+   }
+}
