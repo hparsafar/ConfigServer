@@ -1,0 +1,8 @@
+{
+	"Radin.MaskanGiftCard-settings": {
+			"ConnectionStrings": {
+			"GiftCard": "connectionstringtest"
+
+		}
+	}
+}
