@@ -1,8 +1,9 @@
 {
-	"Radin.MaskanGiftCard-settings": {
-			"ConnectionStrings": {
-			"GiftCard": "connectionstringtest"
+	"Radin.MaskanEtc-settings": {
+		
+		"EtcRemoteAddress": "http://0.0.0.0:7575/Services/EtcServices.asmx"
 
-		}
+
+
 	}
 }
