@@ -1,7 +1,7 @@
 {
 	"Radin.MaskanEtc-settings": {
 		
-		"EtcRemoteAddress": "http://0.0.0.0:7575/Services/EtcServices.asmx"
+		"EtcRemoteAddress": "newww/Services/EtcServices.asmx"
 
 
 
